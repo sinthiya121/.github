@@ -1,6 +1,3 @@
-# Department of Computer Science and Engineering (Cyber Security)
-Dr. N.G.P. Institute of Technology, Coimbatore - 641048
-
 ## Leetcode Tracker
 ### Batch 2024 - 2028
 Roll No | Name | Repo URL | Leetcode URL | Current Status
